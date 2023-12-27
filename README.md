@@ -31,4 +31,4 @@ I welcome any contributions you can make to enhance this educational project:
 - **Pull Requests**: Want to add features or fix bugs? Fork the repository, make your changes, and create a pull request against the `main` branch.
 
 ## License
-This project is open-sourced under the MIT License.
+This project is open-sourced under the MIT License. See the LICENSE file for details.
