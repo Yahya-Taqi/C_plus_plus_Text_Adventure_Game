@@ -24,6 +24,9 @@ This is a educational tool and a demonstration of a wide array of C++ programmin
 - After building the project, run the game by pressing `F5` or by selecting `Debug -> Start Debugging`.
 - Follow the on-screen instructions to navigate through the game.
 
+### Note
+- In order to maintain clarity and organization within the code, I have created a separate document to provide detailed explanations for the more extensive aspects.
+
 ## Contributing
 I welcome any contributions you can make to enhance this educational project:
 - **Bug Reports**: If you find a bug, please open an issue with a clear title and a descriptive message.
