@@ -1,18 +1,18 @@
+// The Following Block Of Code is about Header Files, Preprocessor Directives, Namespaces and more. See "A1".
+// Each Header File serves different functions we can use.
+// Block Start.
 #include <iostream>  
-
-/*
-hello
-*/
-
 #include <string>
 #include <iomanip>
-#include <cstdlib>   // Includes the C standard library, here for the system() function.
-#include "MyUtilityLibrary.h"  // Include our custom utility library.
+#include <cstdlib> 
+#include "MyUtility.h"
+
 
 using namespace std;
-using namespace utility;  // Use the namespace defined in the utility library.
+using namespace utility;
+// Block End.
 
-// Global Attributes: They are wriiten outside of any scope
+// Global Attributes: Following variables are Global Scope Variables. They are wriiten outside of any scope
 char choice;
 
 void showMenu() 

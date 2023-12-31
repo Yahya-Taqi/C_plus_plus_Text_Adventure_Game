@@ -1,0 +1,8 @@
+﻿  MyUtility.cpp
+  TextAdventure.cpp
+  Generating code
+  66 of 169 functions (39.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    21 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TextAdventure.vcxproj -> C:\Users\misma\Desktop\MyGit\C_plus_plus_Text_Adventure_Game\TextAdventure\x64\Release\TextAdventure.exe

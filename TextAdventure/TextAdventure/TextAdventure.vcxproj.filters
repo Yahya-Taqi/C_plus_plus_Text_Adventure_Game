@@ -18,12 +18,12 @@
     <ClCompile Include="TextAdventure.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MyUtilityLibrary.cpp">
+    <ClCompile Include="MyUtility.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MyUtilityLibrary.h">
+    <ClInclude Include="MyUtility.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
