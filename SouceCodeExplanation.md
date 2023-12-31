@@ -7,3 +7,4 @@
   - Static Library (.lib): A static library bundles the object files into a single archive that gets integrated into your executable at compile time.
   - Dynamic Library (.dll): A dynamic library remains separate from your executables and is used at runtime. This allows different programs to share the same library code without incorporating it into each program.
   - **Note:** Creating a library is especially useful for larger projects or when you want to reuse code across multiple applications. For a small, standalone project, creating a library might be unnecessary unless you plan to reuse components of that project elsewhere.
+- `Namespaces` is a feature that allows you to group named entities like classes, objects, and functions under a unique name. This helps to organize code and prevent name conflicts, especially in large programs or when combining code from different sources. 
